@@ -4,6 +4,8 @@ This Repository contains sample GNU Radio flowgraphs that are primarily designed
 
 These flowgraphs were made using GNU Radio version 3.7.13.4 but should be widely universal.
 
+If and when I do create and add decoder flowgraphs, I will also include 
+decoder test files.
 # Usage
 
 
